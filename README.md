@@ -8,13 +8,21 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 elements,
+  - `span`, `thead`, `tbody`, `tr` `td`
+  - `section`, `table`, `div`
+- CSS, - `position`, `padding`, `margin`, - `background-image`, `font-size`
+  Linters
+  - [Prettier](https://prettier.io/)
+  - [stylelint](https://stylelint.io/)
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Deployment Link
+
+[Deployment-Link]()
 
 ### Development (Running locally)
 
